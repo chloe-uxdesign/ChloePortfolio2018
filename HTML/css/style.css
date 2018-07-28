@@ -16,7 +16,7 @@ html, body {
 
 
 /*---------------------------------------
-  TYPOGRAPHY              
+  TYPOGRAPHY
 -----------------------------------------*/
 
 h1,h2,h3,h4,h5,h6 {
@@ -70,7 +70,7 @@ p {
 
 
 /*---------------------------------------
-  BUTTONS               
+  BUTTONS
 -----------------------------------------*/
 
 .section-btn {
@@ -149,13 +149,13 @@ p {
 
 .csstransforms3d .section-btn button:hover span::before,
 .csstransforms3d .section-btn button:hover span::before {
-  background: #000000;  
+  background: #000000;
 } */
 
 
 
 /*---------------------------------------
-  GENERAL               
+  GENERAL
 -----------------------------------------*/
 
 html{
@@ -215,7 +215,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-  PRE LOADER              
+  PRE LOADER
 -----------------------------------------*/
 
 .preloader {
@@ -265,7 +265,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-  MENU             
+  MENU
 -----------------------------------------*/
 
 .navbar-default {
@@ -318,20 +318,20 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-  HOME             
+  HOME
 -----------------------------------------*/
 
 #home {
   height: relative;
   position: relative;
-  padding-top: 100px;
+  padding-top: 50px;
   padding-bottom: 100px;
 }
 
 
 
 /*---------------------------------------
-  HEADER         
+  HEADER
 -----------------------------------------*/
 
 #header {
@@ -345,7 +345,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-  ABOUT              
+  ABOUT
 -----------------------------------------*/
 
 .about-info {
@@ -388,7 +388,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-  TEAM              
+  TEAM
 -----------------------------------------*/
 
 #team p {
@@ -442,7 +442,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-  PROJECT              
+  PROJECT
 -----------------------------------------*/
 
 .project-item {
@@ -508,7 +508,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-   CLIENT             
+   CLIENT
 -----------------------------------------*/
 
 #client .container {
@@ -520,7 +520,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-  CONTACT INFO              
+  CONTACT INFO
 -----------------------------------------*/
 
 #contact-info {
@@ -540,7 +540,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-  CONTACT             
+  CONTACT
 -----------------------------------------*/
 
 #contact .text-success,
@@ -598,7 +598,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-  FOOTER              
+  FOOTER
 -----------------------------------------*/
 
 footer {
@@ -619,7 +619,7 @@ footer {
 
 
 /*---------------------------------------
-  SOCIAL ICON             
+  SOCIAL ICON
 -----------------------------------------*/
 
 .social-icon {
@@ -661,7 +661,7 @@ footer {
 
 
 /*---------------------------------------
-  MOBILE RESPONSIVE              
+  MOBILE RESPONSIVE
 -----------------------------------------*/
 
 @media (max-width: 980px) {
@@ -675,7 +675,7 @@ footer {
   }
 
   #home {
-    height: 50vh;
+    height: 65vh;
   }
 
   .about-info {
@@ -722,7 +722,7 @@ footer {
   }
 
   #home {
-    height: 65vh;
+    height: 60vh;
   }
 
   #project-detail .col-md-6 img {
@@ -760,8 +760,8 @@ footer {
   }
 
   #home {
-    padding-top: 165px;
-    height: 90vh;
+    padding-top: 15px;
+    height: 95vh;
   }
 
   #client .container {
@@ -783,7 +783,7 @@ footer {
   }
 
   #home {
-    height: 125vh;
+    height: 65vh;
   }
 
   #project-detail-links {
@@ -792,4 +792,3 @@ footer {
   }
 
 }
-
