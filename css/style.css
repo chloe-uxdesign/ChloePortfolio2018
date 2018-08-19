@@ -64,7 +64,7 @@ p {
   color: #777777;
   font-size: 20px;
   font-weight: 500;
-  line-height: 30px;
+  line-height: 32px;
   letter-spacing: 0.5px;
 }
 
@@ -479,11 +479,12 @@ a:hover, a:active, a:focus {
 }
 
 .project-detail-text {
-  padding: 62px 82px;
+  padding: 62px 0px 32px 0px;
+  border-top: 1px solid #dadce0;
 }
 
 .project-detail-info {
-  padding: 12px 0 62px 0;
+  padding: 12px 0px 32px 0;
 }
 
 .project-detail-info h3:last-child {
